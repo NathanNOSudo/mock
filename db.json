@@ -5,6 +5,7 @@
     "name": "Kyle G",
     "username": "Styles_File_Kyle",
     "email": "Kyle_8mile@refractlabs.coms.com",
+    "type": "Secured",
     "loan": "123211"
   },
     {
@@ -61,7 +62,7 @@
     "username": "MarkNotNarc",
     "email": "QuestionMark@refractlabs.com",
     "type" : "Secured",
-      "loan": "464566"
+    "loan": "464566"
   },
   {
     "id": 9,
